@@ -1,0 +1,25 @@
+{
+	"name": "gettext-swig",
+	"version": "0.0.1",
+	"description": "Extract translatable strings from Twig templates",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/amenadiel/gettext-twig.git"
+	},
+	"keywords": [
+		"twig",
+		"gettext",
+		"i18n",
+		"translate",
+		"translation"
+	],
+	"author": {
+		"name": "Felipe Figueroa"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/amenadiel/gettext-twig/issues"
+	},
+	"homepage": "https://github.com/amenadiel/gettext-twig"
+}
